@@ -1,2 +1,8 @@
-# htlm-odevi1
-odev1-html
+# Projenin Amacı
+Başlangıç düzeyindeki html bilgisini pekiştirmek.
+
+# Projenin İlave Katkısı
+Github kullanımını pratikleştirmek.
+
+# Proje Seviyesi
+Kolay.
