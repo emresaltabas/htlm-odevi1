@@ -1,8 +1,8 @@
 # Projenin Amacı
-Başlangıç düzeyindeki html bilgisini pekiştirmek.
+Başlangıç düzeyindeki html bilgisini pekiştirmek
 
 # Projenin İlave Katkısı
-Github kullanımını pratikleştirmek.
+Github kullanımını pratikleştirmek
 
 # Proje Seviyesi
-Kolay.
+Kolay
